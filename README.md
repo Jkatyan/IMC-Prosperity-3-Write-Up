@@ -27,64 +27,67 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
 
 ### 🤗 Contributors
 
-<div style="overflow-x: auto;">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <!-- Jay Katyan -->
     <tr>
-      <!-- Jay -->
-      <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+      <td style="width:100px; text-align:center; vertical-align:top;">
         <a href="https://github.com/jkatyan">
           <img
             src="https://avatars.githubusercontent.com/u/33378744?v=4&s=100"
-            style="display: block;
-                   width: 100px !important;
-                   height: 100px !important;
-                   margin: 0 auto;"
+            style="width:100px; height:100px; display:block;"
             alt="Jay Katyan"/>
-        </a><br/>
+        </a>
+      </td>
+      <td style="padding-left:10px; vertical-align:middle;">
         <sub><b><a href="https://www.linkedin.com/in/jkatyan">Jay Katyan</a></b></sub>
       </td>
-      <!-- Rahul -->
-      <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+    </tr>
+    <!-- Rahul Ramakrishnan -->
+    <tr>
+      <td style="width:100px; text-align:center; vertical-align:top;">
         <a href="https://github.com/rahulr-1006">
           <img
             src="https://avatars.githubusercontent.com/u/80089440?v=4&s=100"
-            style="display: block;
-                   width: 100px !important;
-                   height: 100px !important;
-                   margin: 0 auto;"
+            style="width:100px; height:100px; display:block;"
             alt="Rahul Ramakrishnan"/>
-        </a><br/>
+        </a>
+      </td>
+      <td style="padding-left:10px; vertical-align:middle;">
         <sub><b><a href="https://www.linkedin.com/in/rahul-ramakrishnan10062003/">Rahul Ramakrishnan</a></b></sub>
       </td>
-      <!-- Andrew -->
-      <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+    </tr>
+    <!-- Andrew Zhang -->
+    <tr>
+      <td style="width:100px; text-align:center; vertical-align:top;">
         <a href="https://github.com/andrew-zhang">
           <img
             src="https://avatars.githubusercontent.com/u/43453481?v=4&s=100"
-            style="display: block;
-                   width: 100px !important;
-                   height: 100px !important;
-                   margin: 0 auto;"
+            style="width:100px; height:100px; display:block;"
             alt="Andrew Zhang"/>
-        </a><br/>
+        </a>
+      </td>
+      <td style="padding-left:10px; vertical-align:middle;">
         <sub><b><a href="https://www.linkedin.com/in/andrew-zhang-8985a2120/">Andrew Zhang</a></b></sub>
       </td>
-      <!-- Keyan -->
-      <td style="text-align: center; vertical-align: top; white-space: nowrap;">
+    </tr>
+    <!-- Keyan Mikaili -->
+    <tr>
+      <td style="width:100px; text-align:center; vertical-align:top;">
         <a href="https://github.com/Keyan-sm">
           <img
             src="https://avatars.githubusercontent.com/u/124720137?v=4&s=100"
-            style="display: block;
-                   width: 100px !important;
-                   height: 100px !important;
-                   margin: 0 auto;"
+            style="width:100px; height:100px; display:block;"
             alt="Keyan Mikaili"/>
-        </a><br/>
+        </a>
+      </td>
+      <td style="padding-left:10px; vertical-align:middle;">
         <sub><b><a href="https://www.linkedin.com/in/keyan-mikaili/">Keyan Mikaili</a></b></sub>
       </td>
     </tr>
-  </table>
-</div>
+  </tbody>
+</table>
+
 
 ---
 
