@@ -34,10 +34,10 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
         <a href="https://github.com/jkatyan">
           <img
             src="https://avatars.githubusercontent.com/u/33378744?v=4&s=100"
-            width="100"
+            style="display:block; width:100px!important; height:100px!important; margin:0 auto;"
             alt="Jay Katyan"/>
         </a><br/>
-        <sub>
+        <sub style="display:block; width:100px; margin:0 auto; word-break: break-all;">
           <b><a href="https://www.linkedin.com/in/jkatyan">Jay Katyan</a></b>
         </sub>
       </td>
@@ -45,10 +45,10 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
         <a href="https://github.com/rahulr-1006">
           <img
             src="https://avatars.githubusercontent.com/u/80089440?v=4&s=100"
-            width="100"
+            style="display:block; width:100px!important; height:100px!important; margin:0 auto;"
             alt="Rahul Ramakrishnan"/>
         </a><br/>
-        <sub>
+        <sub style="display:block; width:100px; margin:0 auto; word-break: break-all;">
           <b><a href="https://www.linkedin.com/in/rahul-ramakrishnan10062003/">Rahul Ramakrishnan</a></b>
         </sub>
       </td>
@@ -56,10 +56,10 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
         <a href="https://github.com/andrew-zhang">
           <img
             src="https://avatars.githubusercontent.com/u/43453481?v=4&s=100"
-            width="100"
+            style="display:block; width:100px!important; height:100px!important; margin:0 auto;"
             alt="Andrew Zhang"/>
         </a><br/>
-        <sub>
+        <sub style="display:block; width:100px; margin:0 auto; word-break: break-all;">
           <b><a href="https://www.linkedin.com/in/andrew-zhang-8985a2120/">Andrew Zhang</a></b>
         </sub>
       </td>
@@ -67,10 +67,10 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
         <a href="https://github.com/Keyan-sm">
           <img
             src="https://avatars.githubusercontent.com/u/124720137?v=4&s=100"
-            width="100"
+            style="display:block; width:100px!important; height:100px!important; margin:0 auto;"
             alt="Keyan Mikaili"/>
         </a><br/>
-        <sub>
+        <sub style="display:block; width:100px; margin:0 auto; word-break: break-all;">
           <b><a href="https://www.linkedin.com/in/keyan-mikaili/">Keyan Mikaili</a></b>
         </sub>
       </td>
