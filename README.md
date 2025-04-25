@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="logo.webp" alt="Team Logo" width="300"/>
+  <a href="https://prosperity.imc.com/">
+    <img src="logo.webp" alt="Team Logo" width="300"/>
+  </a>
 </p>
 
 <p align="center">
