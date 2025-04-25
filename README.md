@@ -10,13 +10,13 @@
   <a href="#contributors"><img src="https://img.shields.io/badge/Contributors-3-orange.svg?style=flat-square" alt="All Contributors" /></a>
 </p>
 
-### Overview
+### 🏝️ Overview
 
 This write-up contains team **Hustling Hokies'** strategy and implementation details for the IMC Prosperity 3 quantitative trading challenge. 
 
 ---
 
-### Contributors
+### 🤗 Contributors
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -46,3 +46,51 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
     </td>
   </tr>
 </table>
+
+---
+
+### 🐚 What is Prosperity?
+
+Todo
+
+---
+
+### 🦑 Round 1
+
+Todo
+
+---
+
+### 🥐 Round 2
+
+Todo
+
+---
+
+### 🌋 Round 3
+
+Todo
+
+---
+
+### 🏖️ Round 4
+
+Todo
+
+---
+
+### 👀 Round 5
+
+Todo
+
+---
+
+### 🔨 Tools
+
+Todo
+
+---
+
+### 👥 References
+
+Todo
