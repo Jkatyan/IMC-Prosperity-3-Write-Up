@@ -16,6 +16,21 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
 
 ---
 
+### 🏆 Rankings
+
+Our team placed **50th overall** and **15th in the United States** out of 13,559 registered teams.
+
+| Round | Rank  |
+|-------|-------|
+| 1     | 724   |
+| 2     | 63    |
+| 3     | 6     |
+| 4     | 68    |
+| 5     | 50    |
+
+
+---
+
 ### 🤗 Contributors
 
 <table border="0" cellpadding="0" cellspacing="0">
