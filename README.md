@@ -39,7 +39,7 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
     </td>
     <!-- Rahul Ramakrishnan -->
     <td align="center" valign="top" width="180">
-      <a href="https://github.com/rahul-ramakrishnan10062003">
+      <a href="https://github.com/rahulr-1006">
         <img src="https://avatars.githubusercontent.com/u/80089440?v=4&s=100"
              width="100px" alt="Rahul Ramakrishnan"/>
       </a><br/>
@@ -47,7 +47,7 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
     </td>
     <!-- Andrew Zhang -->
     <td align="center" valign="top" width="150">
-      <a href="https://github.com/andrew-zhang-8985a2120">
+      <a href="https://github.com/andrew-zhang">
         <img src="https://avatars.githubusercontent.com/u/43453481?v=4&s=100"
              width="100px" alt="Andrew Zhang"/>
       </a><br/>
@@ -55,7 +55,7 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
     </td>
     <!-- Keyan Mikaili -->
     <td align="center" valign="top" width="150">
-      <a href="ttps://github.com/Keyan-sm">
+      <a href="https://github.com/Keyan-sm">
         <img src="https://avatars.githubusercontent.com/u/124720137?v=4&s=100"
              width="100px" alt="Keyan Mikaili"/>
       </a><br/>
