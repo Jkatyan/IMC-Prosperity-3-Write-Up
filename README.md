@@ -29,35 +29,27 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- Jay Katyan -->
-    <td align="center" valign="top" width="180">
+    <td align="center" valign="top">
       <a href="https://github.com/jkatyan">
-        <img src="https://avatars.githubusercontent.com/u/33378744?v=4&s=100"
-             width="100px" alt="Jay Katyan"/>
+        <img src="https://avatars.githubusercontent.com/u/33378744?v=4&s=100" width="100px" alt="Jay Katyan"/>
       </a><br/>
       <sub><b><a href="https://www.linkedin.com/in/jkatyan">Jay Katyan</a></b></sub>
     </td>
-    <!-- Rahul Ramakrishnan -->
-    <td align="center" valign="top" width="180">
+    <td align="center" valign="top">
       <a href="https://github.com/rahulr-1006">
-        <img src="https://avatars.githubusercontent.com/u/80089440?v=4&s=100"
-             width="100px" alt="Rahul Ramakrishnan"/>
+        <img src="https://avatars.githubusercontent.com/u/80089440?v=4&s=100" width="100px" alt="Rahul Ramakrishnan"/>
       </a><br/>
       <sub><b><a href="https://www.linkedin.com/in/rahul-ramakrishnan10062003/">Rahul Ramakrishnan</a></b></sub>
     </td>
-    <!-- Andrew Zhang -->
-    <td align="center" valign="top" width="180">
+    <td align="center" valign="top">
       <a href="https://github.com/andrew-zhang">
-        <img src="https://avatars.githubusercontent.com/u/43453481?v=4&s=100"
-             width="100px" alt="Andrew Zhang"/>
+        <img src="https://avatars.githubusercontent.com/u/43453481?v=4&s=100" width="100px" alt="Andrew Zhang"/>
       </a><br/>
       <sub><b><a href="https://www.linkedin.com/in/andrew-zhang-8985a2120/">Andrew Zhang</a></b></sub>
     </td>
-    <!-- Keyan Mikaili -->
-    <td align="center" valign="top" width="180">
+    <td align="center" valign="top">
       <a href="https://github.com/Keyan-sm">
-        <img src="https://avatars.githubusercontent.com/u/124720137?v=4&s=100"
-             width="100px" alt="Keyan Mikaili"/>
+        <img src="https://avatars.githubusercontent.com/u/124720137?v=4&s=100" width="100px" alt="Keyan Mikaili"/>
       </a><br/>
       <sub><b><a href="https://www.linkedin.com/in/keyan-mikaili/">Keyan Mikaili</a></b></sub>
     </td>
