@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Competition-IMC%20Prosperity%203-blue.svg?style=flat-square" alt="Competition: IMC Prosperity 3" />
   <img src="https://img.shields.io/badge/Team-Hustling%20Hokies-green.svg?style=flat-square" alt="Team: Hustling Hokies" />
-  <a href="#contributors"><img src="https://img.shields.io/badge/Contributors-3-orange.svg?style=flat-square" alt="All Contributors" /></a>
+  <a href="#contributors"><img src="https://img.shields.io/badge/Contributors-4-orange.svg?style=flat-square" alt="All Contributors" /></a>
 </p>
 
 ### 🏝️ Overview
@@ -52,6 +52,14 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
              width="100px" alt="Andrew Zhang"/>
       </a><br/>
       <sub><b><a href="https://www.linkedin.com/in/andrew-zhang-8985a2120/">Andrew Zhang</a></b></sub>
+    </td>
+    <!-- Keyan Mikaili -->
+    <td align="center" valign="top" width="150">
+      <a href="ttps://github.com/Keyan-sm">
+        <img src="https://avatars.githubusercontent.com/u/124720137?v=4&s=100"
+             width="100px" alt="Keyan Mikaili"/>
+      </a><br/>
+      <sub><b><a href="https://www.linkedin.com/in/keyan-mikaili/">Keyan Mikaili</a></b></sub>
     </td>
   </tr>
 </table>
