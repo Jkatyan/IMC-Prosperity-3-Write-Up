@@ -12,13 +12,7 @@
 
 ### 🏝️ Overview
 
-This write-up contains team **Hustling Hokies'** strategy and implementation details for the IMC Prosperity 3 quantitative trading challenge. 
-
----
-
-### 🏆 Rankings
-
-Our team placed **50th overall** and **15th in the United States** out of 13,559 registered teams.
+This write-up contains team **Hustling Hokies'** strategy and implementation details for the IMC Prosperity 3 quantitative trading challenge. Our team placed **50th overall** and **15th in the United States** out of 13,559 registered teams.
 
 | Round | Rank  |
 |-------|-------|
