@@ -1,8 +1,20 @@
 <p align="center">
-  <img src="https://prosperity.imc.com/assets/imc-prosperity-3c66b55a.svg" alt="IMC Prosperity" width="300"/>
+  <img src="logo.webp" alt="Team Logo" width="300"/>
 </p>
 
-### Hustling Hokies
+<p align="center">
+  <img src="https://img.shields.io/badge/Competition-IMC%20Prosperity%203-blue.svg?style=flat-square" alt="Competition: IMC Prosperity 3" />
+  <img src="https://img.shields.io/badge/Team-Hustling%20Hokies-green.svg?style=flat-square" alt="Team: Hustling Hokies" />
+  <a href="#contributors"><img src="https://img.shields.io/badge/Contributors-3-orange.svg?style=flat-square" alt="All Contributors" /></a>
+</p>
+
+### Overview
+
+This write-up contains team **Hustling Hokies'** strategy and implementation details for the IMC Prosperity 3 quantitative trading challenge. 
+
+---
+
+### Contributors
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -32,13 +44,3 @@
     </td>
   </tr>
 </table>
-
-
-### Overall Rankings
-
-- **Round 1:** 724th  
-- **Round 2:** 63rd  
-- **Round 3:** 6th  
-- **Round 4:** 68th  
-- **Round 5:** 50th (**15th USA**)
-
