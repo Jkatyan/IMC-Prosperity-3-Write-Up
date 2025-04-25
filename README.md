@@ -30,7 +30,7 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <!-- Jay Katyan -->
-    <td align="center" valign="top" width="150">
+    <td align="center" valign="top" width="180">
       <a href="https://github.com/jkatyan">
         <img src="https://avatars.githubusercontent.com/u/33378744?v=4&s=100"
              width="100px" alt="Jay Katyan"/>
@@ -46,7 +46,7 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
       <sub><b><a href="https://www.linkedin.com/in/rahul-ramakrishnan10062003/">Rahul Ramakrishnan</a></b></sub>
     </td>
     <!-- Andrew Zhang -->
-    <td align="center" valign="top" width="150">
+    <td align="center" valign="top" width="180">
       <a href="https://github.com/andrew-zhang">
         <img src="https://avatars.githubusercontent.com/u/43453481?v=4&s=100"
              width="100px" alt="Andrew Zhang"/>
@@ -54,7 +54,7 @@ This write-up contains team **Hustling Hokies'** strategy and implementation det
       <sub><b><a href="https://www.linkedin.com/in/andrew-zhang-8985a2120/">Andrew Zhang</a></b></sub>
     </td>
     <!-- Keyan Mikaili -->
-    <td align="center" valign="top" width="150">
+    <td align="center" valign="top" width="180">
       <a href="https://github.com/Keyan-sm">
         <img src="https://avatars.githubusercontent.com/u/124720137?v=4&s=100"
              width="100px" alt="Keyan Mikaili"/>
